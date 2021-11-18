@@ -2,7 +2,7 @@
   "name": "htf2021_cluedo",
   "version": "1.0.0",
   "description": "Cluedo game for Hack The Future 2021",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
