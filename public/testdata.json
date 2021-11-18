@@ -187,5 +187,11 @@
 			"name": "Grondplan Spel",
 			"url": "/grondplannen/grondplanSpel.png"
 		}
+	],
+	"others": [{
+			"id": 0,
+			"name": "Title HTF",
+			"url": "/others/htf_title.png"
+		}
 	]
 }
